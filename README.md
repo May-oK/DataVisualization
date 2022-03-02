@@ -4,4 +4,4 @@ Past Projects from QSS17 Data Visualization (Working with large, messy datasets 
 
 
 QSS20 Problem Sets: 
-Problem Set 1 and Problem Set 2 focuses more on using Pandas in Python; Problem Set 3 focuses on regax in Python and Problem Set 4 focuses on topic modelling and sentimental analysis.
+Some data cleaning work I've done in my QSS20 Modern Statistical Computing class. Problem Set 1 focuses more on using Pandas in Python and Problem Set 4 focuses on topic modelling and sentimental analysis.
